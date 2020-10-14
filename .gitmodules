@@ -1,0 +1,4 @@
+[submodule "DigitalEngineeringAEJ/TUEV_Rheinland"]
+	path = DigitalEngineeringAEJ/TUEV_Rheinland
+	url = git@github.com:DigitalEngineeringAEJ/TUEV_Rheinland.git
+	branch = derProgrammierer
