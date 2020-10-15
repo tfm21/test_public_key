@@ -1,0 +1,4 @@
+[submodule "DigitalEngineeringAEJ/Wepelo"]
+	path = DigitalEngineeringAEJ/Wepelo
+	url = git@github.com:DigitalEngineeringAEJ/Wepelo.git
+	branch = 13.0-equipment_dev_PROD
